@@ -1,0 +1,9 @@
+body{
+    border: 10%;
+    margin: 8%;
+    background-color: rgb(108, 156, 167);
+    display: flex;
+    height: 90%;
+    width: 80%;
+    justify-content: center;
+}
